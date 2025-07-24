@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nischal</h1
+<h1 align="center">Hi 👋, I'm Nischal
+<h3 align="center">A passionate developer and tech enthusiast</h3>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Developer+from+India;Python+%26+Data+Science+Enthusiast;Computer+Vision+Expert;Always+Learning+New+Things&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </h3>
 <p align="center">
