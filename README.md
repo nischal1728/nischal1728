@@ -16,7 +16,7 @@
 - 👯 I’m open to collaborating on open source projects and innovative ideas
 - 💬 Ask me about any technology related to software development, programming, or tech trends
 - 📫 How to reach me:
-  - Email: _your-email@example.com_ (replace with your email)
+  - Email: nischalnayak000@gmail.com
   - LinkedIn: [Your LinkedIn URL]
   - Twitter: [Your Twitter URL]
 
