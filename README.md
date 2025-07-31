@@ -18,8 +18,8 @@
 - 💬 Ask me about any technology related to software development, programming, or tech trends
 - 📫 How to reach me:
   - Email: nischalnayak000@gmail.com
-  - LinkedIn: [Your LinkedIn URL]
-  - Twitter: [Your Twitter URL]
+  - LinkedIn: https://www.linkedin.com/in/nischal-nayak17/
+  
 
 ---
 
