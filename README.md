@@ -11,50 +11,32 @@
   </a>
 </p>
 
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on exciting projects in **AI/ML**, including **deepfake detection**, **voice analytics**, and **drone-based traffic control**
+- 🌱 Currently learning **ResoNet architectures**, **Firebase integrations**, and **real-time backend systems**
+- 👯 I’m open to collaborating on **open-source AI projects**, **full-stack apps**, and innovative tech solutions
+- 💬 Ask me about anything related to **machine learning**, **computer vision**, **Python**, or **tech trends**
+- 📫 Reach me:
+  - ✉️ Email: [nischalnayak000@gmail.com](mailto:nischalnayak000@gmail.com)
+  - 🔗 LinkedIn: [linkedin.com/in/nischal-nayak17](https://www.linkedin.com/in/nischal-nayak17/)
+  - 💻 GitHub: [github.com/nischal1728](https://github.com/nischal1728)
 
 ---
 
-👨‍💻 About Me
-🔭 I’m currently working on exciting projects in AI/ML, including deepfake detection, voice analytics, and drone-based traffic control.
-🌱 I’m currently learning ResoNet architectures, Firebase integrations, and advanced real-time backend systems.
-👯 I’m open to collaborating on open-source AI projects, full-stack web apps, and real-world tech solutions.
-💬 Ask me about anything related to machine learning, computer vision, Python development, or emerging tech trends.
-  - Email: nischalnayak000@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/nischal-nayak17/
-  
+### 🛠️ Languages & Tools
 
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <!-- Add the icons for your skills here -->
- <p align="left">
-  <!-- Firebase -->
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-
-  <!-- Google Cloud Platform -->
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" width="40" height="40" />
-
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-
-  <!-- SQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40" />
-
-  <!-- C++ -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-
-  <!-- C -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-
-  <!-- Power BI -->
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.svg" alt="Power BI" width="40" height="40" />
-
-  <!-- Tableau -->
-  <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="Tableau" width="100" height="100" />
-</p>
-  <!-- Add more icons as you like -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/96/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
 </p>
 
 ---
@@ -62,23 +44,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nischal1728&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischal1728&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nischal1728&show_icons=true&theme=tokyonight&hide_border=false&border_radius=15" alt="Nischal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischal1728&layout=compact&theme=tokyonight&hide_border=false&border_radius=15" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nischal1728&theme=tokyonight&hide_border=false&border_radius=15" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🤝 Connect with me
+### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/nischal-nayak17" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="mailto:nischalnayak000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/nischal1728" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -86,10 +70,10 @@
 
 ### 🎯 Fun Fact
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
 
 ---
 
-Thank you for visiting my profile! 🚀  
-Let’s build amazing things together ✨
-
+<p align="center">
+  ✨ Thank you for visiting my profile! Let’s build amazing things together. 🚀
+</p>
