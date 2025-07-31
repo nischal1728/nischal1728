@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm Nischal
+<h1 align="center">Hi 👋, I'm Nischal</h1>
 <h3 align="center">A passionate developer and tech enthusiast</h3>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Developer+from+India;Python+%26+Data+Science+Enthusiast;Computer+Vision+Expert;Always+Learning+New+Things&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
-</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML+Developer+from+India;Python+%26+Data+Science+Enthusiast;Computer+Vision+Expert;Always+Learning+New+Things&font=Fira%20Code&center=true&width=600&height=45&duration=4000&pause=1000" alt="Typing SVG" />
+</div>
+
 <p align="center">
   <a href="https://github.com/nischal1728">
     <img src="https://komarev.com/ghpvc/?username=nischal1728&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
+
 ---
 
-### 🚀 About Me
-
-- 🔭 I’m currently working on exciting projects involving [mention your main interests or tech areas, e.g., web development, machine learning, etc.]
-- 🌱 I’m currently learning [mention any skills, technologies you are improving]
-- 👯 I’m open to collaborating on open source projects and innovative ideas
-- 💬 Ask me about any technology related to software development, programming, or tech trends
-- 📫 How to reach me:
+👨‍💻 About Me
+🔭 I’m currently working on exciting projects in AI/ML, including deepfake detection, voice analytics, and drone-based traffic control.
+🌱 I’m currently learning ResoNet architectures, Firebase integrations, and advanced real-time backend systems.
+👯 I’m open to collaborating on open-source AI projects, full-stack web apps, and real-world tech solutions.
+💬 Ask me about anything related to machine learning, computer vision, Python development, or emerging tech trends.
   - Email: nischalnayak000@gmail.com
   - LinkedIn: https://www.linkedin.com/in/nischal-nayak17/
   
